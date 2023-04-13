@@ -21,7 +21,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2022 by [**Reny Kipkoech**](https://github.com/Tr-reny) and [**Stellah Mbao**](https://github.com/StellahMbao) </br>
+Copyright (C) 2023 by [**Okene Daniel**](https://github.com/imperial-coder) and [**Daniel Okene**](https://github.com/Daniel_Okene) </br>
 All rights reserved
 
  ## Description :
@@ -86,9 +86,10 @@ ls -la
 ![114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c](https://user-images.githubusercontent.com/57016982/186711943-65abad4d-eedf-4d65-947d-3710e189bdee.png)
 
 ## Contributors :
-* [**h**](https://github.com/Tr-reny)
-* [**Okene Daniel**](https://github.com/Daniel_Okene)
+* [**Okene Daniel**](https://github.com/imperial-coder)
+* [**Daniel Okene**](https://github.com/Daniel_Okene)
 
 ## Acknowledgments :
 - The creators of the C language.
+- Our software engineer-in-residence.
 - Betty Holberton | Alx-Africa .
